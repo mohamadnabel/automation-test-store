@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-25T15:42:27 AST" name="Default suite" finished-at="2024-04-25T15:42:31 AST" duration-ms="3900">
+  <suite started-at="2024-04-26T20:06:29 AST" name="Default suite" finished-at="2024-04-26T20:06:32 AST" duration-ms="3080">
     <groups>
     </groups>
-    <test started-at="2024-04-25T15:42:27 AST" name="Default test" finished-at="2024-04-25T15:42:31 AST" duration-ms="3900">
+    <test started-at="2024-04-26T20:06:29 AST" name="Default test" finished-at="2024-04-26T20:06:32 AST" duration-ms="3080">
       <class name="testPackage.Testcase">
-        <test-method is-config="true" signature="mySetup()[pri:0, instance:testPackage.Testcase@5fdcaa40]" started-at="2024-04-25T15:42:27 AST" name="mySetup" finished-at="2024-04-25T15:42:30 AST" duration-ms="3852" status="PASS">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:testPackage.Testcase@3016fd5e]" started-at="2024-04-26T20:06:29 AST" name="mySetup" finished-at="2024-04-26T20:06:31 AST" duration-ms="1843" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mySetup -->
-        <test-method signature="myTest()[pri:0, instance:testPackage.Testcase@5fdcaa40]" started-at="2024-04-25T15:42:31 AST" name="myTest" finished-at="2024-04-25T15:42:31 AST" duration-ms="5" status="PASS">
+        <test-method signature="myTest()[pri:0, instance:testPackage.Testcase@3016fd5e]" started-at="2024-04-26T20:06:31 AST" name="myTest" finished-at="2024-04-26T20:06:32 AST" duration-ms="1181" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- myTest -->
