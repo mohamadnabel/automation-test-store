@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-27T18:51:19 AST" name="Default suite" finished-at="2024-04-27T18:51:27 AST" duration-ms="8403">
+  <suite started-at="2024-05-07T20:40:22 AST" name="Default suite" finished-at="2024-05-07T20:40:25 AST" duration-ms="2446">
     <groups>
     </groups>
-    <test started-at="2024-04-27T18:51:19 AST" name="Default test" finished-at="2024-04-27T18:51:27 AST" duration-ms="8403">
+    <test started-at="2024-05-07T20:40:22 AST" name="Default test" finished-at="2024-05-07T20:40:25 AST" duration-ms="2446">
       <class name="testPackage.Testcase">
-        <test-method is-config="true" signature="mySetup()[pri:0, instance:testPackage.Testcase@178213b]" started-at="2024-04-27T18:51:19 AST" name="mySetup" finished-at="2024-04-27T18:51:21 AST" duration-ms="2308" status="PASS">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:testPackage.Testcase@31000e60]" started-at="2024-05-07T20:40:22 AST" name="mySetup" finished-at="2024-05-07T20:40:24 AST" duration-ms="1517" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mySetup -->
-        <test-method signature="myTest()[pri:0, instance:testPackage.Testcase@178213b]" started-at="2024-04-27T18:51:21 AST" name="myTest" finished-at="2024-04-27T18:51:22 AST" duration-ms="972" status="PASS">
+        <test-method signature="asrestForPhoneNumber()[pri:4, instance:testPackage.Testcase@31000e60]" started-at="2024-05-07T20:40:24 AST" name="asrestForPhoneNumber" finished-at="2024-05-07T20:40:25 AST" duration-ms="888" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- myTest -->
-        <test-method signature="regestrationNewAccount()[pri:0, instance:testPackage.Testcase@178213b]" started-at="2024-04-27T18:51:22 AST" name="regestrationNewAccount" finished-at="2024-04-27T18:51:27 AST" duration-ms="5069" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- regestrationNewAccount -->
+        </test-method> <!-- asrestForPhoneNumber -->
       </class> <!-- testPackage.Testcase -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

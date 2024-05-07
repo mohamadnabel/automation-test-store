@@ -2,6 +2,8 @@ package parameters;
 
 import java.util.Random;
 
+import org.openqa.selenium.support.ui.WebDriverWait;
+
 public class Parameters {
 	protected String URL = "https://automationteststore.com/";
 	protected Random rand = new Random();
@@ -10,6 +12,5 @@ public class Parameters {
 	protected int randLName = rand.nextInt(randoomLastName.length);
 	protected int randFName = rand.nextInt(randoomFirstName.length);
 	protected int randomNum = rand.nextInt(99);
-
 
 }

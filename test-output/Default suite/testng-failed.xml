@@ -5,8 +5,8 @@
     <classes>
       <class name="testPackage.Testcase">
         <methods>
+          <include name="asrestForPhoneNumber"/>
           <include name="mySetup"/>
-          <include name="regestrationNgewAccount"/>
         </methods>
       </class> <!-- testPackage.Testcase -->
     </classes>
